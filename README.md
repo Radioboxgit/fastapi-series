@@ -1,3 +1,7 @@
+## This is a repo for fastapi example projects and configurations
+
+<details>Fast Api File Upload Example<summary>Details</summary>
+<p>
 #FastAPI File Upload Example Project
 in this example,a post endpoint is created that receives a file in the form of json.
 The json file is then decoded and stored in a deta base .
@@ -28,3 +32,6 @@ Deploy the project:
 deta deploy 
 
 ```
+
+</p>
+</details>
