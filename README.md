@@ -1,6 +1,8 @@
 ## This is a repo for fastapi example projects and configurations
+projects listed are:
+-Fast Api File Upload Example
 
-<details>Fast Api File Upload Example<summary>Details</summary>
+<details><summary>Fast Api File Upload Example Details</summary>
 <p>
 #FastAPI File Upload Example Project
 in this example,a post endpoint is created that receives a file in the form of json.
@@ -24,7 +26,7 @@ deta new --python
 ```
 The command above tells deta that you want to initialize a new python micro.
 
-After creating a new deta micro, deta will create a **.deta ** directory inside the project folder
+After creating a new deta micro, deta will create a **.deta** directory inside the project folder
 
 Deploy the project:
 
