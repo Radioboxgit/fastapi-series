@@ -2,7 +2,8 @@
 projects listed are:
 - Fast Api File Upload Example
 
-# Fast Api File Upload Example  <details><summary>Details</summary>
+# Fast Api File Upload Example  
+<details><summary>Details</summary>
 <p>
 in this example,a post endpoint is created that receives a file in the form of json.
 The json file is then decoded and stored in a deta base .
